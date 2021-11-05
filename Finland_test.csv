@@ -1,10 +1,19 @@
 Series_name,Year,Overall_Income_Inequality,Top_Income_Share,Poverty_Rate,Dispersion_of_Earnings,Wealth_Inequality
 Chartbook F1,2020,22,,,,2
-Source 1,2020,,21,,,
-Source 2,2020,,,,45,4
-Chartbook F1,2019,24,,33,,
-Source 1,2019,,22,,,
-Source 2,2019,,25,32,34,5
-Chartbook F1,2018,26,,,,
-Source 1,2018,,23,11,,6
-Source 2,2018,,27,,43,
+Chartbook F1,2019,23,,,,
+Chartbook F1,2018,24,,,,
+Chartbook F2,2020,,26,,,
+Chartbook F2,2019,,27,,,
+Chartbook F2,2018,,28,,,
+Chartbook F3,2020,,,2,,
+Chartbook F3,2019,,,3,,
+Chartbook F3,2018,,,4,,
+Chartbook F4,2020,,,,5,
+Chartbook F4,2019,,,,6,
+Chartbook F4,2018,,,,7,
+Chartbook F5,2020,,,,,8
+Chartbook F5,2019,,,,,9
+Chartbook F5,2018,,,,,10
+Chartbook F6,2020,,,5,,
+Chartbook F6,2019,,,6,,
+Chartbook F6,2018,,,7,,
