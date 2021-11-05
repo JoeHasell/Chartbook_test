@@ -1,10 +1,10 @@
-Series_name,Chartbook_value,Year,Source_value
-Chartbook F1,22,2020,
-Source 1,,2020,21
-Source 2,,2020,
-Chartbook F1,24,2019,
-Source 1,,2019,22
-Source 2,,2019,25
-Chartbook F1,26,2018,
-Source 1,,2018,23
-Source 2,,2018,27
+Series_name,Year,Overall_Income_Inequality,Top_Income_Share,Poverty_Rate,Dispersion_of_Earnings,Wealth_Inequality
+Chartbook F1,2020,22,,,,2
+Source 1,2020,,21,,,
+Source 2,2020,,,,45,4
+Chartbook F1,2019,24,,33,,
+Source 1,2019,,22,,,
+Source 2,2019,,25,32,34,5
+Chartbook F1,2018,26,,,,
+Source 1,2018,,23,11,,6
+Source 2,2018,,27,,43,
